@@ -1,2 +1,2 @@
-# rusty-converter
-Qcow2 converter written in Rust
+# rustyqimg tool written in Rust to work with qcow type of images
+
